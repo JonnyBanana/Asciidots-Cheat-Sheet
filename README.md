@@ -20,6 +20,10 @@ Available Formats:
 
 </br>
 
+if you prefer there is also a .txt file in ascii pure, to stay in line with this fantastic esolang;)
+
+</br>
+
 ![Alt text](https://i.imgur.com/F2Luoyj.jpg "My personal Asciidots Cheat Sheet JonnyBanana")
 
 
