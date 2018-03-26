@@ -24,11 +24,11 @@ I suggest the .odt format for the print
 
 </br>
 
-if you prefer there is also a .txt file in ascii pure, to stay in line with this fantastic esolang;)
+![Alt text](https://i.imgur.com/F2Luoyj.jpg "My personal Asciidots Cheat Sheet JonnyBanana")
 
 </br>
 
-![Alt text](https://i.imgur.com/F2Luoyj.jpg "My personal Asciidots Cheat Sheet JonnyBanana")
+if you prefer there is also a .txt file in ascii pure, to stay in line with this fantastic esolang ;)
 
 
 All my Cheat Sheet Here:
