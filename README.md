@@ -6,6 +6,7 @@
 Share of my personal Asciidots Cheat Sheet
 
 Available Formats:
+</br>
 . jpg
 </br>
 . odt
