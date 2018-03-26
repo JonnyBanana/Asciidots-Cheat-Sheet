@@ -34,7 +34,7 @@ if you prefer there is also a .txt file in ascii pure, to stay in line with this
 
 All my Cheat Sheet Here:
 </BR>
-https://imgur.com/a/oZD6a 
+https://imgur.com/a/jKAyj 
 
 A Huge Collection of Programming Cheat Sheet:
 </BR>
