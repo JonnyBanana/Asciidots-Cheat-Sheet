@@ -20,6 +20,10 @@ Available Formats:
 
 </br>
 
+I suggest the .odt format for the print
+
+</br>
+
 if you prefer there is also a .txt file in ascii pure, to stay in line with this fantastic esolang;)
 
 </br>
