@@ -30,6 +30,7 @@ I suggest the .odt format for the print
 
 if you prefer there is also a .txt file in ascii pure, to stay in line with this fantastic esolang ;)
 
+</br>
 
 All my Cheat Sheet Here:
 </BR>
