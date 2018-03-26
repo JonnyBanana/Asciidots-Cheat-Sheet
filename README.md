@@ -1,6 +1,6 @@
 # Asciidots-Cheat-Sheet
 
-![Alt text](https://i.imgur.com/hHwPnXp.jpg "My personal Asciidots Cheat Sheet JonnyBanana")
+![Alt text](https://i.imgur.com/F2Luoyj.jpg "My personal Asciidots Cheat Sheet JonnyBanana")
 
 
 Share of my personal Asciidots Cheat Sheet
